@@ -42,9 +42,9 @@
 
 | Project | Tech Stack | Status | Links |
 | :--- | :--- | :--- | :--- |
-| **🛍 E-Commerce Platform** | React.js, Node.js Stripe, MongoDb | 🚧 In Progress | [![Repo](https://img.shields.io/badge/Code-Black?logo=github)](https://github.com/BalrajM) |
-| **🧠 SaaS Tracker** | Next.js, Node.js, MongoDB, Auth.js | ⏳ Building | [![Repo](https://img.shields.io/badge/Code-Black?logo=github)](https://github.com/BalrajM) |
-| **📦 Inventory System** | Node.js, Express, SQL | 🎯 Planned | [![Repo](https://img.shields.io/badge/Code-Black?logo=github)](https://github.com/BalrajM) |
+| **🛍 E-Commerce Platform** | React.js, Node.js Stripe, MongoDb | 🚧 In Progress | [![Repo](https://img.shields.io/badge/Code-Black?logo=github)]([https://github.com/BalrajMsr](https://github.com/BalrajMsr/ShopEase)) |
+| **🧠 SaaS Tracker** | Next.js, Node.js, MongoDB, Auth.js | ⏳ Building | [![Repo](https://img.shields.io/badge/Code-Black?logo=github)]([https://github.com/BalrajMsr](https://github.com/BalrajMsr/student-assignment-tracker)) |
+| **📦 Inventory System** | Node.js, Express, SQL | 🎯 Planned | [![Repo](https://img.shields.io/badge/Code-Black?logo=github)](https://github.com/BalrajMsr) |
 
 ---
 
