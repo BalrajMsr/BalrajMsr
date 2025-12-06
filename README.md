@@ -40,11 +40,11 @@
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Status | Links |
-| :--- | :--- | :--- | :--- |
-| **🛍 E-Commerce Platform** | React.js, Node.js Stripe, MongoDb | 🚧 In Progress | [![Repo](https://img.shields.io/badge/Code-Black?logo=github)]([https://github.com/BalrajMsr](https://github.com/BalrajMsr/ShopEase)) |
-| **🧠 SaaS Tracker** | Next.js, Node.js, MongoDB, Auth.js | ⏳ Building | [![Repo](https://img.shields.io/badge/Code-Black?logo=github)]([https://github.com/BalrajMsr](https://github.com/BalrajMsr/student-assignment-tracker)) |
-| **📦 Inventory System** | Node.js, Express, SQL | 🎯 Planned | [![Repo](https://img.shields.io/badge/Code-Black?logo=github)](https://github.com/BalrajMsr) |
+| Project | Tech Stack | Status |
+|--------|------------|--------|
+| 🛍 **ShopEase — Full E-Commerce Platform** | React.js • Node.js • Stripe • MongoDB | 🚧 In Progress |
+| 🧠 **SaaS Subscription Tracker** | Next.js • Node.js • MongoDB • Auth.js | ⏳ Building |
+| 📦 **Inventory Management System** | Express.js • Node.js • PostgreSQL/SQL | 🎯 Planned |
 
 ---
 
