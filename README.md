@@ -38,16 +38,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Status |
-|--------|------------|--------|
-| 🛍 **ShopEase — Full E-Commerce Platform** | React.js • Node.js • Stripe • MongoDB | 🚧 In Progress |
-| 🧠 **SaaS Subscription Tracker** | Next.js • Node.js • MongoDB • Auth.js | ⏳ Building |
-| 📦 **Inventory Management System** | Express.js • Node.js • PostgreSQL/SQL | 🎯 Planned |
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
