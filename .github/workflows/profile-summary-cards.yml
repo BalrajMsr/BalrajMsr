@@ -2,22 +2,23 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Runs every 24 hours
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # Options: default, tokyonight, 2077, gruvbox, solarized, dracula
-          THEME: tokyonight
+          BRANCH_NAME: main
